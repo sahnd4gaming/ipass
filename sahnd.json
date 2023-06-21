@@ -2,7 +2,7 @@
     "name": "SAHND APPPS",
     "identifier": "xyz.yyyue.esign",
     "sourceURL": "https://github.com/sahnd4gaming/ipass/raw/main/sahnd.json",
-    "apps": [
+    "apps": [    
 {
     "name": "GoPix [Hack]",
     "bundleIdentifier": "com.app.gopix",
@@ -16,6 +16,8 @@
     "size": "20000",
     "isLanZouCloud": 0,
     "type": 1
+},
+{ "name": "Snapchat", "bundleID": "com.toyopagroup.picaboo", "bundleIdentifier": "com.toyopagroup.picaboo", "version": "12.38.1", "versionDate": "2023-06-14", "fullDate": "20230614211845", "size": 110741501, "down": "https://github.com/apptesters-org/Repo/releases/download/15-06-2023/Snapchat_12.38.1_Falcon_2.0_%40thisismanpreets_apptesters.org.ipa", "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-06-2023/Snapchat_12.38.1_Falcon_2.0_%40thisismanpreets_apptesters.org.ipa", "developerName": "", "localizedDescription": "Injected with Falcon 2.0", "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.toyopagroup.picaboo.png", "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.toyopagroup.picaboo.png" 
 },
 {
     "name": "TextNow++",
