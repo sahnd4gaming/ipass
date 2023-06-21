@@ -1,0 +1,37 @@
+{
+    "name": "è½»æ¾ç­¾æº",
+    "identifier": "xyz.yyyue.esign",
+    "sourceURL": "https://esign.yyyue.xyz/apps.json",
+    "apps": [
+        {
+            "name": "è½»æ¾ç­¾-jejsjs",
+            "developerName": "yyy",
+            "version": "4.8.2",
+            "versionDate": "2023-06-16T22:20:00+08:00",
+            "versionDescription": "æ›´æ–°æœ¬åœ°å®‰è£…çš„httpsè¯ä¹¦\nreplace the local install https cert\nfix bug",
+            "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_4.8.2_unsigned.ipa",
+            "localizedDescription": "è½»æ¾ç­¾æ˜¯ä¸€æ¬¾å…è¶Šç‹±å¯ç»™ipaç­¾åçš„å·¥å…·ï¼Œå…·æœ‰æ³¨å…¥åº“ï¼ŒåŽ»åº“ç­‰åŠŸèƒ½ã€‚",
+            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
+        },
+        
+        
+        {
+            "name": "è½»æ¾ç­¾-ESign",
+            "bundleIdentifier": "p3.xyz.yyyue.esign",
+            "developerName": "yyy",
+            "version": "4.8.1",
+            "versionDate": "2023-03-19T16:50:00+08:00",
+            "versionDescription": "å·²å®‰è£…åº”ç”¨åˆ—è¡¨æ”¯æŒç­›é€‰\nä¼˜åŒ–ä¿®å¤è¶Šç‹±ä¾èµ–é€»è¾‘\nä¼˜åŒ–iOS15.7.2-3å¯åŠ¨å¡é¡¿é—®é¢˜\næ”¯æŒç­¾ååŽç§»é™¤embedded.mobileprovision\næ”¯æŒæ¸…ç©ºåº”ç”¨æ•°æ®ï¼ˆiOS15-15.7.1å’ŒiOS16.0-16.1.2ï¼‰\nä¿®å¤ç­¾åbug\nSupport Remove mobileprovision after signing\nSupport clear app data (iOS15-15.7.1 and 16.0-16.1.2)\nfix bug",
+            "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_4.8.1_unsigned.ipa",
+            "localizedDescription": "è½»æ¾ç­¾æ˜¯ä¸€æ¬¾å…è¶Šç‹±å¯ç»™ipaç­¾åçš„å·¥å…·ï¼Œå…·æœ‰æ³¨å…¥åº“ï¼ŒåŽ»åº“ç­‰åŠŸèƒ½ã€‚",
+            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
+        }
+    ]
